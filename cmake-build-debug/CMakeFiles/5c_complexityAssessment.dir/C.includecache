@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/5c_complexityAssessment/estimationOfComplexityOfAlgorithms/estimationOfComplexityOfAlgorithms.c
+estimationOfComplexityOfAlgorithms.h
+D:/5c_complexityAssessment/estimationOfComplexityOfAlgorithms/estimationOfComplexityOfAlgorithms.h
+
+D:/5c_complexityAssessment/estimationOfComplexityOfAlgorithms/estimationOfComplexityOfAlgorithms.h
+stdlib.h
+-
+stdio.h
+-
+stdbool.h
+-
+time.h
+-
+D:/5c_complexityAssessment/sorts/sorts.h
+-
+
+D:/5c_complexityAssessment/main.c
+D:/5c_complexityAssessment/estimationOfComplexityOfAlgorithms/estimationOfComplexityOfAlgorithms.h
+-
+
+D:/5c_complexityAssessment/sorts/sorts.c
+sorts.h
+D:/5c_complexityAssessment/sorts/sorts.h
+memory.h
+-
+
+D:/5c_complexityAssessment/sorts/sorts.h
+stdlib.h
+-
+stdio.h
+-
+
